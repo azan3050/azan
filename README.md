@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-b6bxqJmHSBQ/YCF7iAb1e8I/AAAAAAAAQD4/bjVGymoEwg4HKkjQI04cj9LyYnHS4LhdQCLcBGAsYHQ/s0/new-curriculum-for-android-educators-social-v4.png)
 <h1 align="center">Hi 👋, I'm Mohd Azan Ansari</h1>
 <h3 align="center">A passionate frontend android developer from India</h3>
-<img align="right" alt = "coding" width ="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="right" alt = "coding" width ="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azan3050&label=Profile%20views&color=0e75b6&style=flat" alt="azan3050" /> </p>
 
