@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-b6bxqJmHSBQ/YCF7iAb1e8I/AAAAAAAAQD4/bjVGymoEwg4HKkjQI04cj9LyYnHS4LhdQCLcBGAsYHQ/s0/new-curriculum-for-android-educators-social-v4.png)
+![MasterHead](https://1.bp.blogspot.com/-b6bxqJmHSBQ/YCF7iAb1e8I/AAAAAAAAQD4/bjVGymoEwg4HKkjQI04cj9LyYnHS4LhdQCLcBGAsYHQ/s0/new-curriculum-for-android-educators-social-v4.png)
 <h1 align="center">Hi 👋, I'm Mohd Azan Ansari</h1>
 <h3 align="center">A passionate frontend android developer from India</h3>
 <img align="right" alt = "coding" width ="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
