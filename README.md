@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Mental Health App](https://github.com/azan3050/flutter_project.git)
+- 🔭 I’m currently working on [Social Media App](https://github.com/azan3050/flutter_project.git)
 
 - 🌱 I’m currently learning **Flutter, Android App Development**
 
